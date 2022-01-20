@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @anter123h4
 - 👀 I’m interested in Azure cloud platform and coding power shell/Visual Studio Code. 
 - 🌱 I’m currently studeing IT cloud infrastrukture engineere 
-- taking my time to briefly learn the ways of managing Azure efficient thru coding/manually.
+- taking my time to learn the ways of managing Azure efficient thru coding/manually.
